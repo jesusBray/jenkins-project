@@ -1,1 +1,1 @@
-echo "hola a todos desde un sell new"
+echo "hola a todos"
